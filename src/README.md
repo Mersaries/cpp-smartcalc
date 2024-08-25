@@ -4,44 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Introduction in SmartCalc_v2.0</title>
-    <style>
-        html {
-            width: 800px;
-            margin: auto;
-        }
-        p, h1, h3, ul, ol {
-            text-align: center;
-        }
-        .title {
-            margin-bottom: 0px;
-        }
-        .subtitle {
-            display: block;
-            text-align: center;
-            margin: auto;
-            font-style: italic;
-        }
-        .contents {
-            background-color: red;
-        }
-        .list_operators {
-            list-style-type: none;
-            width: 100px;
-            padding: 10px;
-            margin: auto;
-            /* border-color: brown; */
-            border: 2px double brown;
-        }
-        .list__operators_item {
-            padding: 2px;
-        }
-        .command {
-            font-style: italic;
-            font-weight: bold;
-            color: purple;
-        }
-    </style>
 </head>
 
 <body>
